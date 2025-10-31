@@ -1,0 +1,6 @@
+Generated: 2025-10-31T20:31:51.856435
+Total production rows: 8541
+Matched rows: 221
+Unmatched rows: 8320
+Matches by source: {'auto': 221, 'unmatched': 8320}
+Auto low-confidence matches: 221
